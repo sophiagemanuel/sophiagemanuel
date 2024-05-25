@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sophiagemanuel
-- 👀 I’m interested in Data gathering, cleaning, and analyzing
-- 📫 Email: sophiagemanuel@gmail.com
-- 😄 Pronouns: She/Her
-
+- Hi, I’m @sophiagemanuel
+- I’m interested in Data gathering, cleaning, and analyzing
+- Email: sophiagemanuel@gmail.com
+- LinkedIn:https://www.linkedin.com/in/sophiaemanuel/
+- Pronouns: She/Her
