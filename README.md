@@ -1,4 +1,4 @@
-- Hi, I’m @sophiagemanuel
+- Hi, I’m Sophia Emanuel
 - I’m interested in Data gathering, cleaning, and analyzing
 - Email: sophiagemanuel@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sophiaemanuel/
